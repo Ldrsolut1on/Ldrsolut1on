@@ -1,58 +1,33 @@
-<!-- Banner dinâmico (Modo Claro / Modo Escuro) -->
 <div align="center">
-  <a href="https://github.com/Ldrsolution/Ldrsolution">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
-      <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
-    </picture>
-  </a>
+  <h3 align="center">SESSION_ID: 0x5F3A-ROOT</h3>
+  <p align="center">
+    [ ACCESS GRANTED ] • [ STATUS: ELITE ] • [ TARGET: SECURE_SYSTEMS ]
+  </p>
+  <p align="center">
+    Bacharel em Direito | Acadêmico de ADS | Security Analyst | Software Engineer
+  </p>
 </div>
 
-<br>
-
-<!-- Bloco de Apresentação com Foto e Texto Lado a Lado -->
-<table>
-  <tr>
-    <td align="center" width="30%">
-      <!-- Substitua URL_DA_TUA_FOTO pelo link direto da sua imagem de perfil real -->
-      <img src="URL_DA_TUA_FOTO" width="140px" style="border-radius: 50%; border: 2px solid #00FF66;" alt="Leandro Martins" />
-    </td>
-    <td width="70%" valign="middle">
-      <h3>Olá, sou o Leandro Martins 👋</h3>
-      <p>Bacharel em Direito e acadêmico de Análise e Desenvolvimento de Sistemas. Perfil multidisciplinar focado na resolução de problemas complexos, raciocínio lógico avançado e análise rigorosa de regras de negócio.</p>
-      
-      <p>
-        <a href="https://linkedin.com/in/seu-utilizador" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-        <a href="https://tryhackme.com/p/seu-utilizador" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88CC00?style=flat&logo=tryhackme&logoColor=black" /></a>
-        <a href="mailto:seu-email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ---
 
-### 💻 Domínios de Atuação
-
-* **Desenvolvimento de Software:** Aplicações web completas (`Python`, `Flask`, `SQL`, `JavaScript`), arquitetura limpa e backend sólido.
-* **Cybersecurity:** Segurança ofensiva e defensiva, mapeamento de redes (`Nmap`), análise de tráfego (`Wireshark`), mitigação de falhas baseadas no `OWASP Top 10` e práticas em CTFs.
-
----
-
-### 🎯 Objetivos
-
-* Desenvolvimento de Software (Backend / Full Stack)
-* Cybersecurity (Análise de Vulnerabilidades / AppSec / Pentest)
-
----
-
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ldrsolution&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldrsolution&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ldrsolution&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
+```bash
+root@matrix:~# cat ./profile/whoami
+-------------------------------------------------------------------
+> [SUBJECT]      : Leandro Martins (Ldrsolution)
+> [FOCUS]        : Convergence of Law, Development, and Cybersecurity.
+> [APPROACH]     : Threat Modeling | Defensive Architecture | Offensive Ops
+> [CERT]         : Bacharel em Direito / Acadêmico de ADS
+-------------------------------------------------------------------
+root@matrix:~# ./skills_audit.sh --filter=dev_cyber
+-------------------------------------------------------------------
+CORE COMPETENCIES:
+  [>>] SOFTWARE_DEV: Python, Flask, C, C++, JavaScript, SQL
+  [>>] CYBERSECURITY: Pentest, OWASP Top 10, Nmap, Wireshark, BurpSuite, Metasploit
+  [>>] PLATFORMS: Linux (Kali/Parrot), Embedded Systems (ESP32, RPi Pico)
+  [>>] DOCUMENTATION: Analytical and structured approach derived from Law.
+-------------------------------------------------------------------
+root@matrix:~# cat /var/log/objectives.log
+[INFO] SEEKING OPPORTUNITIES IN:
+[INFO] 1. Software Development (Backend / Full Stack)
+[INFO] 2. Cybersecurity (AppSec / Pentest / Vulnerability Research)
+[INFO] 3. Systems Engineering + Security Convergence
