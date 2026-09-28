@@ -1,4 +1,14 @@
-### Hi there, I'm Leandro Martins 👋
+<!-- Se quiseres manter o banner dinâmico de modo claro/escuro que enviaste, podes usar um link de imagem próprio aqui, ou remover esta parte se preferires sem banner -->
+<div align="center">
+  <a href="https://github.com/Ldrsolution/Ldrsolution">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
+      <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+    </picture>
+  </a>
+</div>
+
+### Olá, sou o Leandro Martins 👋
 
 > Bacharel em Direito e acadêmico de Análise e Desenvolvimento de Sistemas. Perfil multidisciplinar focado na resolução de problemas complexos, raciocínio lógico avançado e análise rigorosa de regras de negócio.
 
@@ -30,10 +40,10 @@
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ldrsolution&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldrsolution&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ldrsolution&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
