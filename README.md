@@ -1,52 +1,39 @@
-root@kali:~# ./load_profile.sh --user=leandro_martins --target=all
+### Hi there, I'm Leandro Martins 👋
 
-[!] INITIALIZING SECURE ENVIRONMENT...
-[+] OS: Kali GNU/Linux Rolling x86_64
-[+] SHELL: zsh / bash
-[+] ACCESS_LEVEL: ROOT / FULL_DISCLOSURE
+> Bacharel em Direito e acadêmico de Análise e Desenvolvimento de Sistemas. Perfil multidisciplinar focado na resolução de problemas complexos, raciocínio lógico avançado e análise rigorosa de regras de negócio.
 
---------------------------------------------------------------------------------
-0x01 // IDENTIDADE & PERFIL MULTIDISCIPLINAR
---------------------------------------------------------------------------------
-> Bacharel em Direito & Acadêmico de Análise e Desenvolvimento de Sistemas.
-> Foco na convergência entre a visão jurídica/documental e a engenharia 
-> rigorosa de software, eletrônica e cibersegurança. Capacidade avançada 
-> de análise de regras de negócio, modelagem de ameaças e lógica complexa.
+<p align="left">
+  <a href="https://linkedin.com/in/seu-utilizador" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/seu-utilizador" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88CC00?style=flat&logo=tryhackme&logoColor=black" /></a>
+  <a href="mailto:seu-email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
---------------------------------------------------------------------------------
-0x02 // DOMÍNIOS DE ATUAÇÃO TÉCNICA
---------------------------------------------------------------------------------
-[+] Software Dev   :: Desenvolvimento de aplicações web completas, arquitetura
-                      limpa, lógica de backend (Python, Flask, SQL, JavaScript).
-[+] Embedded & IoT :: Sistemas embarcados, microcontroladores (ESP32, Raspberry
-                      Pi Pico) em C, C++ e MicroPython. Prototipagem e PCBs.
-[+] Hardware       :: Ciclo completo de hardware: design Gerber, esquemáticos,
-                      enclosures em CAD 3D e impressão 3D (FDM/SLA).
-[+] Cybersecurity  :: Segurança ofensiva e defensiva, mapeamento de redes (Nmap),
-                      análise de tráfego (Wireshark), OWASP Top 10 e CTFs.
+---
 
---------------------------------------------------------------------------------
-0x03 // STACK TECNOLÓGICA & FERRAMENTAS
---------------------------------------------------------------------------------
-- Languages     : Python, C, C++, JavaScript, SQL, HTML5, CSS3, Flask
-- Security      : Nmap, Wireshark, Burp Suite, Metasploit, OWASP Top 10, Kali
-- Embedded      : ESP32, Raspberry Pi Pico, MicroPython, Circuitos PCB, Solda
-- Hardware      : CAD 3D, Impressão 3D (FDM/SLA), Osciloscópio, Multímetro
+### 💻 Domínios de Atuação
 
---------------------------------------------------------------------------------
-0x04 // OBJETIVOS OPERACIONAIS (STATUS: SEEKING)
---------------------------------------------------------------------------------
-[01] Desenvolvimento de Software (Backend / Full Stack)
-[02] Sistemas Embarcados & IoT / Automação
-[03] Cybersecurity (Análise de Vulnerabilidades / AppSec / Pentest)
+* **Desenvolvimento de Software:** Aplicações web completas (`Python`, `Flask`, `SQL`, `JavaScript`), arquitetura limpa e backend sólido.
+* **Sistemas Embarcados & IoT:** Microcontroladores (`ESP32`, `Raspberry Pi Pico`) em `C`, `C++` e `MicroPython`, prototipagem eletrônica e design de PCBs (Gerber/Esquemáticos).
+* **Hardware & Prototipagem:** Ciclo completo de hardware — modelagem e impressão 3D (`FDM/SLA`) para enclosures técnicos, manutenção e diagnóstico de bancada.
+* **Cybersecurity:** Segurança ofensiva e defensiva, mapeamento de redes (`Nmap`), análise de tráfego (`Wireshark`), mitigação de falhas baseadas no `OWASP Top 10` e práticas em CTFs.
 
---------------------------------------------------------------------------------
-0x05 // CANAIS DE COMUNICAÇÃO SEGUROS
---------------------------------------------------------------------------------
-root@kali:~# cat /etc/contacts.list
-> LinkedIn  : https://linkedin.com/in/seu-utilizador
-> TryHackMe : https://tryhackme.com/p/seu-utilizador
-> E-mail    : seu-email@domain.com
+---
 
-root@kali:~# exit
-[Process completed]
+### 🎯 Objetivos
+
+* Desenvolvimento de Software (Backend / Full Stack)
+* Sistemas Embarcados & IoT / Automação
+* Cybersecurity (Análise de Vulnerabilidades / AppSec / Pentest)
+
+---
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
