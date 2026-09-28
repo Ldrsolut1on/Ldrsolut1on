@@ -1,16 +1,19 @@
 <div align="center">
-  <h3 align="center">SESSION_ID: 0x5F3A-ROOT</h3>
-  <p align="center">
+  <!-- Esta imagem abaixo é apenas um placeholder estático. Se quiseres o GIF animado do efeito de terminal, deves substituir a URL pela que criámos anteriormente. -->
+  <img src="https://raw.githubusercontent.com/Ldrsolution/Ldrsolution/main/hacker_terminal_header.gif" alt="Hacker Terminal Header" width="100%">
+
+  <h3>SESSION_ID: 0x5F3A-ROOT</h3>
+  <p>
     [ ACCESS GRANTED ] • [ STATUS: ELITE ] • [ TARGET: SECURE_SYSTEMS ]
   </p>
-  <p align="center">
+  <p>
     Bacharel em Direito | Acadêmico de ADS | Security Analyst | Software Engineer
   </p>
 </div>
 
 ---
 
-```bash
+```text
 root@matrix:~# cat ./profile/whoami
 -------------------------------------------------------------------
 > [SUBJECT]      : Leandro Martins (Ldrsolution)
@@ -31,3 +34,6 @@ root@matrix:~# cat /var/log/objectives.log
 [INFO] 1. Software Development (Backend / Full Stack)
 [INFO] 2. Cybersecurity (AppSec / Pentest / Vulnerability Research)
 [INFO] 3. Systems Engineering + Security Convergence
+-------------------------------------------------------------------
+root@matrix:~# exit
+[Process completed]
