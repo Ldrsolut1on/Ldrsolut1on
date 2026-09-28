@@ -23,8 +23,6 @@
 ### 💻 Domínios de Atuação
 
 * **Desenvolvimento de Software:** Aplicações web completas (`Python`, `Flask`, `SQL`, `JavaScript`), arquitetura limpa e backend sólido.
-* **Sistemas Embarcados & IoT:** Microcontroladores (`ESP32`, `Raspberry Pi Pico`) em `C`, `C++` e `MicroPython`, prototipagem eletrônica e design de PCBs (Gerber/Esquemáticos).
-* **Hardware & Prototipagem:** Ciclo completo de hardware — modelagem e impressão 3D (`FDM/SLA`) para enclosures técnicos, manutenção e diagnóstico de bancada.
 * **Cybersecurity:** Segurança ofensiva e defensiva, mapeamento de redes (`Nmap`), análise de tráfego (`Wireshark`), mitigação de falhas baseadas no `OWASP Top 10` e práticas em CTFs.
 
 ---
@@ -32,7 +30,6 @@
 ### 🎯 Objetivos
 
 * Desenvolvimento de Software (Backend / Full Stack)
-* Sistemas Embarcados & IoT / Automação
 * Cybersecurity (Análise de Vulnerabilidades / AppSec / Pentest)
 
 ---
