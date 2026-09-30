@@ -30,7 +30,7 @@ root@matrix:~# ./skills_audit.sh --filter=dev_cyber
 --------------------------------------------------
 CORE COMPETENCIES:
 [>>] SOFTWARE_DEV: Python, Flask, C, C++, JavaScript, SQL
-[>>] CYBERSECURITY: Pentest, OWASP Top 10, Nmap, Wireshark, BurpSuite, Metasploit
+[>>] CYBERSECURITY: Pentest, OWASP Top 10, Nmap, Wireshark, BurpSuite, Metasploit, Hydra
 [>>] PLATFORMS: Linux (Kali/Parrot), Embedded Systems (ESP32, RPi Pico)
 [>>] DOCUMENTATION: Analytical and structured approach derived from Law.
 --------------------------------------------------
