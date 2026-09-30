@@ -1,15 +1,22 @@
 <div align="center">
   <pre style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; text-align: left; display: inline-block; width: 100%;">
-    <code style="color: #00FF66; font-family: monospace;">
-<span style="color: #00FF66; font-weight: bold;">SESSION_ID:</span> 0x5F3A-ROOT
-<span style="color: #8b949e;">[</span> <span style="color: #58a6ff;">ACCESS GRANTED</span> <span style="color: #8b949e;">]</span> • <span style="color: #8b949e;">[</span> STATUS: ONLINE <span style="color: #8b949e;">]</span> • <span style="color: #8b949e;">[</span> TARGET: SECURE_SYSTEMS <span style="color: #8b949e;">]</span>
+    <code style="color: #00FF66; font-family: monospace; font-size: 13px; line-height: 1.5;">
+<span style="color: #8b949e;">┌──(</span><span style="color: #ff7b72; font-weight: bold;">root㉿kali</span><span style="color: #8b949e;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #8b949e;">]</span>
+<span style="color: #8b949e;">└─#</span> <span style="color: #ffa657;">./load_profile.sh</span> --verbose
 
-Bacharel em Direito | Acadêmico de ADS | Security Analyst | Software Engineer
+<span style="color: #8b949e;">[+]</span> <span style="color: #7ee787;">SESSION_ID:</span> 0x5F3A-ROOT <span style="color: #8b949e;">[</span> <span style="color: #58a6ff;">ACCESS GRANTED</span> <span style="color: #8b949e;">]</span>
+<span style="color: #8b949e;">[+]</span> <span style="color: #7ee787;">STATUS:</span> ONLINE | <span style="color: #7ee787;">TARGET:</span> SECURE_SYSTEMS
+
+<span style="color: #8b949e;">──────────────────────────────────────────────────</span>
+<span style="color: #ff7b72;">├──</span> <span style="color: #ffa657;">Academic:</span>    Bacharel em Direito | Acadêmico de ADS
+<span style="color: #ff7b72;">└──</span> <span style="color: #ffa657;">Expertise:</span>   Security Analyst | Software Engineer
+<span style="color: #8b949e;">──────────────────────────────────────────────────</span>
+
+<span style="color: #8b949e;">┌──(</span><span style="color: #ff7b72; font-weight: bold;">root㉿kali</span><span style="color: #8b949e;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #8b949e;">]</span>
+<span style="color: #8b949e;">└─#</span> <span style="color: #00FF66; animation: blink 1s infinite;">_</span>
     </code>
   </pre>
 </div>
-
----
 
 ```bash
 root@matrix:~# cat ./profile/whoami
