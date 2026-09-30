@@ -13,27 +13,27 @@
 <span style="color: #8b949e;">──────────────────────────────────────────────────</span>
 
 <span style="color: #8b949e;">┌──(</span><span style="color: #ff7b72; font-weight: bold;">root㉿kali</span><span style="color: #8b949e;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #8b949e;">]</span>
-<span style="color: #8b949e;">└─#</span> <span style="color: #00FF66; animation: blink 1s infinite;">_</span>
+<span style="color: #8b949e;">└─#</span> <span style="color: #00FF66;">_</span>
     </code>
   </pre>
 </div>
 
 ```bash
 root@matrix:~# cat ./profile/whoami
--------------------------------------------------------------------
-> [SUBJECT]      : Leandro Martins (Ldrsolution)
-> [FOCUS]        : Convergence of Law, Development, and Cybersecurity.
-> [APPROACH]     : Threat Modeling | Defensive Architecture | Offensive Ops
-> [CERT]         : Bacharel em Direito / Acadêmico de ADS
--------------------------------------------------------------------
+--------------------------------------------------
+> [SUBJECT]     : Leandro Martins (Ldrsolution)
+> [FOCUS]       : Convergence of Law, Development, and Cybersecurity.
+> [APPROACH]    : Threat Modeling | Defensive Architecture | Offensive Ops
+> [CERT]        : Bacharel em Direito / Acadêmico de ADS
+--------------------------------------------------
 root@matrix:~# ./skills_audit.sh --filter=dev_cyber
--------------------------------------------------------------------
+--------------------------------------------------
 CORE COMPETENCIES:
-  [>>] SOFTWARE_DEV: Python, Flask, C, C++, JavaScript, SQL
-  [>>] CYBERSECURITY: Pentest, OWASP Top 10, Nmap, Wireshark, BurpSuite, Metasploit
-  [>>] PLATFORMS: Linux (Kali/Parrot), Embedded Systems (ESP32, RPi Pico)
-  [>>] DOCUMENTATION: Analytical and structured approach derived from Law.
--------------------------------------------------------------------
+[>>] SOFTWARE_DEV: Python, Flask, C, C++, JavaScript, SQL
+[>>] CYBERSECURITY: Pentest, OWASP Top 10, Nmap, Wireshark, BurpSuite, Metasploit
+[>>] PLATFORMS: Linux (Kali/Parrot), Embedded Systems (ESP32, RPi Pico)
+[>>] DOCUMENTATION: Analytical and structured approach derived from Law.
+--------------------------------------------------
 root@matrix:~# cat /var/log/objectives.log
 [INFO] SEEKING OPPORTUNITIES IN:
 [INFO] 1. Software Development (Backend / Full Stack)
